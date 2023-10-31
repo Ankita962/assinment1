@@ -1,0 +1,23 @@
+Ans-1.  
+           .A computer is a device that accepts information (in the form of digitalized data) and manipulates it for some result based on a program, software, or sequence of nstructions on how the data is to be processed.
+
+Ans-2  
+            Random-access memory (RAM; /ræm/) is a form of electronic computer memory that can be read and changed in any order, typically used to store working data and machine code.[1][2] A random-access memory device allows data items to be read or written in almost the same amount of time irrespective of the physical location of data inside the memory, in contrast with other direct-access data storage media (such as hard disks, CD-RWs, DVD-RWs and the older magnetic tapes and drum memory), where the time required to read and write data items varies significantly depending on their physical locations on the recording medium, due to mechanical limitations such as media rotation speeds and arm movement
+
+
+Ans-3
+         Computer data storage devices are  classified by their distance from the processor, or CPU. The closest storage is memory, or RAM. This is the only kind of data storage that directly accesses the CPU. Memory includes processor registers and the processor cache, but these are included on the memory module.
+ Memory is volatile storage, so any information that goes into memory needs to be written to the main storage device to be retained permanently. Because data flows from memory to a storage device, it's considered secondary storage.
+Ans-4
+             KEYBORD   
+                                A keyboard is a human interface device which is represented as a matrix of buttons. Each button, or key, can be used to either input an alphanumeric character to a computer, or to call upon a particular function of the computer. It acts as the main text entry interface for most users.
+ 
+
+Ans-5  
+         Any peripheral that accepts data from a computer and prints, projects, or reproduces it is known as an output device. The output may be audio, video, hard copy – printed paper, etc. Output devices convert the computer data to human understandable form. We give input to the computer using input devices and the computer performs operations on the data and displays the output to the user using the output device.
+
+Ans-6    Mouse
+
+Ans-7  High Level Language
+
+Ans-8   an input device is a piece of equipment used to provide data and control signals to an information processing system, such as a computer or information appliance. Examples of input devices include keyboards, mouse, scanners, cameras, joysticks,
